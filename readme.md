@@ -34,13 +34,19 @@
 10. Sun, Y., Yang, J., **Li, M.**, & Liu, T. (2022). The association between neuroticism and nomophobia: chain mediating effect of attachment and loneliness. International Journal of Mental Health and Addiction. 
 11. Du W., **Li, M.**, Zhou H., Shao, F., & Wang, W. (2021). Alteration of the PKA-CREB cascade in the mPFC accompanying prepulse inhibition deficits: evidence from adolescent social isolation and chronic SKF38393 injection during early adolescence. Behavioural pharmacology
 12. Sun L., Min L., **Li, M.**, & Shao, F. (2021). Juvenile social isolation leads to schizophrenia-like behaviors via excess lactate production by astrocytes. Brain Research Bulletin. 174, 240-249.
-13. Sun L., Min L., **Li, M.**, Shao, S., Shao, F., & Wang, W. (2018). Transcriptomic analysis reveals oxidative phosphorylation activation in an adolescent social isolation rat model. Brain Research Bulletin,142,304-312.
-14. Sun L., Min L., Zhou H., **Li, M.**, Shao, S., Shao, F., & Wang, W. (2017). Adolescent social isolation affects schizophrenia-like behavior and astrocyte biomarkers in the PFC of adult rats. Behavioural Brain Research, 333(30), 258-266.
-15. Wang, Q., Wang, W., **Li, M.**, Wei, D. U., & Feng, S. (2016). The effects of trk b inhibition in the m pfc on cognitive function and bdnf expression in the hippocampus of rats. Acta Psychologica Sinica, 48(5), 509.
-16. **李曼**，张嘉惠，胡文涵.(2021). 同伴在场对不同性别早期生活应激个体冒险行为的影响.中华行为医学与脑科学杂志，30(11):1023-1028.
-17. **李曼**,段文劲,李易明..(2021).社会支持在大学生行为抑制激活系统与网络成瘾间的调节作用.中华行为医学与脑科学杂志, 30(01):65-70.
-18. **李曼**,刘欣宇,赵佳..(2020).情绪效价对早期生活应激大学生风险决策的影响.中华行为医学与脑科学杂志,29(11):1014-1019.
-19. 宋蕊,**李曼**\*.社会支持与中学生抑郁的关系:应对方式和心理弹性的链式中介作用.中国健康心理学杂志,2020,28(09):1392-1397.
+13. Pang, K., Jiang, R., …… **Li, M.**, …… Guo, W., & Lu, B.* (2021). An App knock-in rat model for Alzheimer’s disease exhibiting Aβ and tau pathologies, neuronal death and cognitive impairments. Cell Research, 0:1-19.
+14. Sun L., Min L., **Li, M.**, Shao, S., Shao, F., & Wang, W. (2018). Transcriptomic analysis reveals oxidative phosphorylation activation in an adolescent social isolation rat model. Brain Research Bulletin,142,304-312.
+15. Sun L., Min L., Zhou H., **Li, M.**, Shao, S., Shao, F., & Wang, W. (2017). Adolescent social isolation affects schizophrenia-like behavior and astrocyte biomarkers in the PFC of adult rats. Behavioural Brain Research, 333(30), 258-266.
+16. Wang, Q., Wang, W., **Li, M.**, Wei, D. U., & Feng, S. (2016). The effects of trk b inhibition in the m pfc on cognitive function and bdnf expression in the hippocampus of rats. Acta Psychologica Sinica, 48(5), 509.
+17. Wu, J., Yu, C., Tan, Y., Hou, Z., **Li, M.**, Shao, F., & Lu, X.* (2015). Effects of prenatal exposure to silver nanoparticles on spatial cognition and hippocampal neurodevelopment in rats. Environmental research, 138, 67-73.
+18. Wang, Q., **Li, M.**, Wei, D., Feng, S., & Wang, W.* (2015). The different effects of maternal separation on spatial learning and reversal learning in rats. Behavioural Brain Research, 280(280), 16-23.
+19. Shao, S., **Li, M.**, Du, W., Shao, F., & Wang, W.* (2014). Galanthamine, an acetylcholine inhibitor, prevents prepulse inhibition deficits induced by adolescent social isolation or mk-801 treatment. Brain Research, 1589(1589), 105-111.
+20. Xue, X., Shao, S., **Li, M.**, Feng, S., & Wang, W.* (2013). Maternal separation induces alterations of serotonergic system in different aged rats. Brain Research Bulletin, 95(6), 15-20.
+21. Xue, X., **Li, M.**, Wang, W., & Feng, S.* (2013). The animal model and neurobiological mechanisms of maternal separation. Advances in Psychological Science, 21(6), 990-998.
+22. **李曼**，张嘉惠，胡文涵.(2021). 同伴在场对不同性别早期生活应激个体冒险行为的影响.中华行为医学与脑科学杂志，30(11):1023-1028.
+23. **李曼**,段文劲,李易明..(2021).社会支持在大学生行为抑制激活系统与网络成瘾间的调节作用.中华行为医学与脑科学杂志, 30(01):65-70.
+24. **李曼**,刘欣宇,赵佳..(2020).情绪效价对早期生活应激大学生风险决策的影响.中华行为医学与脑科学杂志,29(11):1014-1019.
+25. 宋蕊,**李曼**\*.(2020).社会支持与中学生抑郁的关系:应对方式和心理弹性的链式中介作用.中国健康心理学杂志,28(09):1392-1397.
 
 ---
 ## 会议报告
