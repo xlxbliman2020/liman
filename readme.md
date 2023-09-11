@@ -22,7 +22,7 @@
 
 ---
 ## 代表论著（* 通讯作者）
-1. **Li M**, Lan Q, Qiu L, Yuan Y, He F, Zhang C, Zhang L (2022). Diurnal Cortisol in Left-Behind Adolescents: Relations to Negative Family Expressiveness and Internalizing Problems; Frontiers in Public Health. 2022, 10: 844014.
+1. **Li M**, Lan Q, Qiu L, Yuan Y, He F, Zhang C, Zhang L* (2022). Diurnal Cortisol in Left-Behind Adolescents: Relations to Negative Family Expressiveness and Internalizing Problems; Frontiers in Public Health. 2022, 10: 844014.
 2. **Li M**, He Q, Zhao J, Xu Z, & Yang Ho (2022). The effects of childhood maltreatment on cyberbullying in college students: The roles of cognitive processes. Acta Psychologica. 2022, 226:103588.
 3. **Li, M**, Xu, Z, He, X, Zhang, J, Song, R, Duan, W, Liu, T. & Yang, H (2021). Sense of Coherence and Mental Health in College Students After Returning to School During COVID-19: The Moderating Role of Media Exposure. Frontiers in Psychology. 12:687928.
 4. **Li, M.**, Sun L., Du, W., Zhou H., Shao, F., & Wang, W. (2019). Chronic clozapine treatment improves the alterations of prepulse inhibition and BDNF mRNA expression in the medial prefrontal cortex that are induced by adolescent social isolation. Behavioural Pharmacology, 30: 311-319.
