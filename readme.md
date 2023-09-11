@@ -1,52 +1,50 @@
 # 李曼
 ![](./me.png)
-## 讲师
+## 副教授
 + 通讯地址：天津市西青区宾水西道393号天津师范大学心理学部
 + 电子邮件：jykxliman@tjnu.edu.cn
 
 ## 教育和工作经历
 + 2011年9月-2016年7月 北京大学心理与认知科学学院，博士
-+ 2016年7月-至今 天津师范大学心理学部，讲师
++ 2016年7月-2022.12 天津师范大学心理学部，讲师
++ 2023.1-至今 天津师范大学心理学部 副教授
 + 2018.12-2022.1  中国科学院心理研究所博士后
++ 2023.5-至今 俄亥俄州立大学访问学者
 
 ## 讲授课程
-+ 基础心理学
 + 生理心理学
 + 人体解剖生理学
 
 ## 研究兴趣
++ 创伤诱发心理异常的神经生理机制
 + 早期环境对个体心理发展的影响 
-+ 亲子分离对个体情绪调节、认知功能及HPA轴的功能影响
-+ 早期应激诱发心理异常的神经免疫学机制
 + 恐惧记忆形成的神经环路
 
 ---
 ## 代表论著（* 通讯作者）
-1. Xu, H., Yuan, Y., Cai, J., He, L., Liu, J., **Li, M.**\*, Wang, W\*. (2022). Adverse Childhood Experiences-International Questionnaire (ACE-IQ) frequency scoring method modification and association of adversity pattern and trauma-related outcomes. Psychological Trauma: Theory, Research, Practice, and Policy. Under review
-2. **Li, M**, He, F., Lan, Q., Zhang, C., Zang, Y., Wang, L. (2022). Longitudinal association between COVID-19 stress and adolescents’ diurnal cortisol: mediators of parental anxiety and behaviors. Psychophysiology. Under review
-3. **Li M**, Lan Q, Qiu L, Yuan Y, He F, Zhang C, Zhang L (2022). Diurnal Cortisol in Left-Behind Adolescents: Relations to Negative Family Expressiveness and Internalizing Problems; Frontiers in Public Health. 2022, 10: 844014.
-4. **Li M**, He Q, Zhao J, Xu Z, & Yang Ho (2022). The effects of childhood maltreatment on cyberbullying in college students: The roles of cognitive processes. Acta Psychologica. 2022, 226:103588.
-5. **Li, M**, Xu, Z, He, X, Zhang, J, Song, R, Duan, W, Liu, T. & Yang, H (2021). Sense of Coherence and Mental Health in College Students After Returning to School During COVID-19: The Moderating Role of Media Exposure. Frontiers in Psychology. 12:687928.
-6. **Li, M.**, Sun L., Du, W., Zhou H., Shao, F., & Wang, W. (2019). Chronic clozapine treatment improves the alterations of prepulse inhibition and BDNF mRNA expression in the medial prefrontal cortex that are induced by adolescent social isolation. Behavioural Pharmacology, 30: 311-319.
-7. **Li, M.**, Xu H., Wang, W. (2018). An Improved Model of Physical and Emotional Social Defeat: Different Effects on Social Behavior and Body Weight of Adolescent Mice by Interaction with Social Support. Frontiers in Psychiatry, 9:688.
-8. **Li, M.**, Du, W., Shao, F., & Wang, W. (2016). Cognitive dysfunction and epigenetic alterations of the bdnf gene are induced by social isolation during early adolescence. Behavioural Brain Research, 313, 177-183.
-9. **Li, M.**, Xue, X., Shao, S., Shao, F., & Wang, W. (2013). Cognitive, emotional and neurochemical effects of repeated maternal separation in adolescent rats. Brain Research, 1518(26), 82-90.
-10. Sun, Y., Yang, J., **Li, M.**, & Liu, T. (2022). The association between neuroticism and nomophobia: chain mediating effect of attachment and loneliness. International Journal of Mental Health and Addiction. 
-11. Du W., **Li, M.**, Zhou H., Shao, F., & Wang, W. (2021). Alteration of the PKA-CREB cascade in the mPFC accompanying prepulse inhibition deficits: evidence from adolescent social isolation and chronic SKF38393 injection during early adolescence. Behavioural pharmacology
-12. Sun L., Min L., **Li, M.**, & Shao, F. (2021). Juvenile social isolation leads to schizophrenia-like behaviors via excess lactate production by astrocytes. Brain Research Bulletin. 174, 240-249.
-13. Pang, K., Jiang, R., …… **Li, M.**, …… Guo, W., & Lu, B.* (2021). An App knock-in rat model for Alzheimer’s disease exhibiting Aβ and tau pathologies, neuronal death and cognitive impairments. Cell Research, 0:1-19.
-14. Sun L., Min L., **Li, M.**, Shao, S., Shao, F., & Wang, W. (2018). Transcriptomic analysis reveals oxidative phosphorylation activation in an adolescent social isolation rat model. Brain Research Bulletin,142,304-312.
-15. Sun L., Min L., Zhou H., **Li, M.**, Shao, S., Shao, F., & Wang, W. (2017). Adolescent social isolation affects schizophrenia-like behavior and astrocyte biomarkers in the PFC of adult rats. Behavioural Brain Research, 333(30), 258-266.
-16. Wang, Q., Wang, W., **Li, M.**, Wei, D. U., & Feng, S. (2016). The effects of trk b inhibition in the m pfc on cognitive function and bdnf expression in the hippocampus of rats. Acta Psychologica Sinica, 48(5), 509.
-17. Wu, J., Yu, C., Tan, Y., Hou, Z., **Li, M.**, Shao, F., & Lu, X.* (2015). Effects of prenatal exposure to silver nanoparticles on spatial cognition and hippocampal neurodevelopment in rats. Environmental research, 138, 67-73.
-18. Wang, Q., **Li, M.**, Wei, D., Feng, S., & Wang, W.* (2015). The different effects of maternal separation on spatial learning and reversal learning in rats. Behavioural Brain Research, 280(280), 16-23.
-19. Shao, S., **Li, M.**, Du, W., Shao, F., & Wang, W.* (2014). Galanthamine, an acetylcholine inhibitor, prevents prepulse inhibition deficits induced by adolescent social isolation or mk-801 treatment. Brain Research, 1589(1589), 105-111.
-20. Xue, X., Shao, S., **Li, M.**, Feng, S., & Wang, W.* (2013). Maternal separation induces alterations of serotonergic system in different aged rats. Brain Research Bulletin, 95(6), 15-20.
-21. Xue, X., **Li, M.**, Wang, W., & Feng, S.* (2013). The animal model and neurobiological mechanisms of maternal separation. Advances in Psychological Science, 21(6), 990-998.
-22. **李曼**，张嘉惠，胡文涵.(2021). 同伴在场对不同性别早期生活应激个体冒险行为的影响.中华行为医学与脑科学杂志，30(11):1023-1028.
-23. **李曼**,段文劲,李易明..(2021).社会支持在大学生行为抑制激活系统与网络成瘾间的调节作用.中华行为医学与脑科学杂志, 30(01):65-70.
-24. **李曼**,刘欣宇,赵佳..(2020).情绪效价对早期生活应激大学生风险决策的影响.中华行为医学与脑科学杂志,29(11):1014-1019.
-25. 宋蕊,**李曼**\*.(2020).社会支持与中学生抑郁的关系:应对方式和心理弹性的链式中介作用.中国健康心理学杂志,28(09):1392-1397.
+1. **Li M**, Lan Q, Qiu L, Yuan Y, He F, Zhang C, Zhang L (2022). Diurnal Cortisol in Left-Behind Adolescents: Relations to Negative Family Expressiveness and Internalizing Problems; Frontiers in Public Health. 2022, 10: 844014.
+2. **Li M**, He Q, Zhao J, Xu Z, & Yang Ho (2022). The effects of childhood maltreatment on cyberbullying in college students: The roles of cognitive processes. Acta Psychologica. 2022, 226:103588.
+3. **Li, M**, Xu, Z, He, X, Zhang, J, Song, R, Duan, W, Liu, T. & Yang, H (2021). Sense of Coherence and Mental Health in College Students After Returning to School During COVID-19: The Moderating Role of Media Exposure. Frontiers in Psychology. 12:687928.
+4. **Li, M.**, Sun L., Du, W., Zhou H., Shao, F., & Wang, W. (2019). Chronic clozapine treatment improves the alterations of prepulse inhibition and BDNF mRNA expression in the medial prefrontal cortex that are induced by adolescent social isolation. Behavioural Pharmacology, 30: 311-319.
+5. **Li, M.**, Xu H., Wang, W. (2018). An Improved Model of Physical and Emotional Social Defeat: Different Effects on Social Behavior and Body Weight of Adolescent Mice by Interaction with Social Support. Frontiers in Psychiatry, 9:688.
+6. **Li, M.**, Du, W., Shao, F., & Wang, W. (2016). Cognitive dysfunction and epigenetic alterations of the bdnf gene are induced by social isolation during early adolescence. Behavioural Brain Research, 313, 177-183.
+7. **Li, M.**, Xue, X., Shao, S., Shao, F., & Wang, W. (2013). Cognitive, emotional and neurochemical effects of repeated maternal separation in adolescent rats. Brain Research, 1518(26), 82-90.
+8. Sun, Y., Yang, J., **Li, M.**, & Liu, T. (2022). The association between neuroticism and nomophobia: chain mediating effect of attachment and loneliness. International Journal of Mental Health and Addiction. 
+9. Du W., **Li, M.**, Zhou H., Shao, F., & Wang, W. (2021). Alteration of the PKA-CREB cascade in the mPFC accompanying prepulse inhibition deficits: evidence from adolescent social isolation and chronic SKF38393 injection during early adolescence. Behavioural pharmacology
+10. Sun L., Min L., **Li, M.**, & Shao, F. (2021). Juvenile social isolation leads to schizophrenia-like behaviors via excess lactate production by astrocytes. Brain Research Bulletin. 174, 240-249.
+11. Pang, K., Jiang, R., …… **Li, M.**, …… Guo, W., & Lu, B.* (2021). An App knock-in rat model for Alzheimer’s disease exhibiting Aβ and tau pathologies, neuronal death and cognitive impairments. Cell Research, 0:1-19.
+12. Sun L., Min L., **Li, M.**, Shao, S., Shao, F., & Wang, W. (2018). Transcriptomic analysis reveals oxidative phosphorylation activation in an adolescent social isolation rat model. Brain Research Bulletin,142,304-312.
+13. Sun L., Min L., Zhou H., **Li, M.**, Shao, S., Shao, F., & Wang, W. (2017). Adolescent social isolation affects schizophrenia-like behavior and astrocyte biomarkers in the PFC of adult rats. Behavioural Brain Research, 333(30), 258-266.
+14. Wang, Q., Wang, W., **Li, M.**, Wei, D. U., & Feng, S. (2016). The effects of trk b inhibition in the m pfc on cognitive function and bdnf expression in the hippocampus of rats. Acta Psychologica Sinica, 48(5), 509.
+15. Wu, J., Yu, C., Tan, Y., Hou, Z., **Li, M.**, Shao, F., & Lu, X.* (2015). Effects of prenatal exposure to silver nanoparticles on spatial cognition and hippocampal neurodevelopment in rats. Environmental research, 138, 67-73.
+16. Wang, Q., **Li, M.**, Wei, D., Feng, S., & Wang, W.* (2015). The different effects of maternal separation on spatial learning and reversal learning in rats. Behavioural Brain Research, 280(280), 16-23.
+17. Shao, S., **Li, M.**, Du, W., Shao, F., & Wang, W.* (2014). Galanthamine, an acetylcholine inhibitor, prevents prepulse inhibition deficits induced by adolescent social isolation or mk-801 treatment. Brain Research, 1589(1589), 105-111.
+18. Xue, X., Shao, S., **Li, M.**, Feng, S., & Wang, W.* (2013). Maternal separation induces alterations of serotonergic system in different aged rats. Brain Research Bulletin, 95(6), 15-20.
+19. Xue, X., **Li, M.**, Wang, W., & Feng, S.* (2013). The animal model and neurobiological mechanisms of maternal separation. Advances in Psychological Science, 21(6), 990-998.
+20. **李曼**，张嘉惠，胡文涵.(2021). 同伴在场对不同性别早期生活应激个体冒险行为的影响.中华行为医学与脑科学杂志，30(11):1023-1028.
+21. **李曼**,段文劲,李易明..(2021).社会支持在大学生行为抑制激活系统与网络成瘾间的调节作用.中华行为医学与脑科学杂志, 30(01):65-70.
+22. **李曼**,刘欣宇,赵佳..(2020).情绪效价对早期生活应激大学生风险决策的影响.中华行为医学与脑科学杂志,29(11):1014-1019.
+23. 宋蕊,**李曼**\*.(2020).社会支持与中学生抑郁的关系:应对方式和心理弹性的链式中介作用.中国健康心理学杂志,28(09):1392-1397.
 
 ---
 ## 会议报告
@@ -75,17 +73,18 @@
 
 ---
 ## 承担教学/科研项目情况：
-1.	北京大学-小米科技公司横向合作项目，小米可穿戴设备压力测试中皮质醇指标分析，53WE2116，2021/12-2022/11，在研，主持
-2.	天津市教委科研计划专项任务项目(心理健康教育)，家庭情绪氛围、情绪管理能力与青少年问题行为的关系与干预研究，2021ZDGX11，2021/9-2023/8，在研，主持
-3.	天津市退役军人事务理论研究，退役军人的心理健康状况及教育对策研究，2021/9-2021/12，已结项，参加
-4.	天津市高等学校人文社会科学研究项目，生命主题绘本的儿童阅读体验实践研究，2020SK037，2020/12-2023/11，在研，参加
-5.	天津师范大学教学改革（课程思政）项目，《人体解剖生理学》课程思政的多元化教学设计探索，JGYB01220011，2020/11-2022/11，在研，主持
-6.	天津市哲学社会科学规划(一般)项目，执行功能在情绪调节中的作用分析及训练研究，2020/08-2023/10，在研，参加
-7.	天津市哲学社会科学规划(一般)项目，亲子分离对留学生青少年个体情绪调节及问题行为的研究,2017/07-2021/06，已结项，主持
-8.	校博士基金项目，家庭环境对青少年情绪调节及问题行为的影响研究，2017/11-2022/3，已结项，主持
-9.	国家自然科学基金青年项目，自下而上加工和自上而下加工在类别特异的注意捕获中的作用，2018/01-2020/12，已结项，参加
-10.	国家自然科学基金青年项目，奖励敏感性与两性亲密关系中的激情保持，2019/01-2021/12，在研，参加，23万
-11.	国家自然科学基金会面上项目，青少期社会隔离诱发大鼠拟精神分裂症认知功能障碍的BDNF表观遗传学机制研究，2015/01-2018/12，结项，参加
+1.  天津市哲学社会科学规划(一般)项目，情绪调节框架视角下青少年问题行为的影响因素及干预策略, 2022/12-2024/12，在研，主持
+2.  北京大学-小米科技公司横向合作项目，小米可穿戴设备压力测试中皮质醇指标分析，53WE2116，2021/12-2022/8，结项，主持
+3.	天津市教委科研计划专项任务项目(心理健康教育)，家庭情绪氛围、情绪管理能力与青少年问题行为的关系与干预研究，2021ZDGX11，2021/9-2022/8，结项，主持
+4.	天津市退役军人事务理论研究，退役军人的心理健康状况及教育对策研究，2021/9-2021/12，已结项，参加
+5.	天津市高等学校人文社会科学研究项目，生命主题绘本的儿童阅读体验实践研究，2020SK037，2020/12-2023/11，在研，参加
+6.	天津师范大学教学改革（课程思政）项目，《人体解剖生理学》课程思政的多元化教学设计探索，JGYB01220011，2020/11-2022/11，在研，主持
+7.	天津市哲学社会科学规划(一般)项目，执行功能在情绪调节中的作用分析及训练研究，2020/08-2023/10，在研，参加
+8.	天津市哲学社会科学规划(一般)项目，亲子分离对留学生青少年个体情绪调节及问题行为的研究,2017/07-2021/06，已结项，主持
+9.	校博士基金项目，家庭环境对青少年情绪调节及问题行为的影响研究，2017/11-2022/3，已结项，主持
+10.	国家自然科学基金青年项目，自下而上加工和自上而下加工在类别特异的注意捕获中的作用，2018/01-2020/12，已结项，参加
+11.	国家自然科学基金青年项目，奖励敏感性与两性亲密关系中的激情保持，2019/01-2021/12，在研，参加，23万
+12.	国家自然科学基金会面上项目，青少期社会隔离诱发大鼠拟精神分裂症认知功能障碍的BDNF表观遗传学机制研究，2015/01-2018/12，结项，参加
 
 ---
 ## 已获荣誉
@@ -110,7 +109,12 @@
     + 研究生：张嘉惠（学校心理-专硕）
 + 2020级
     + 研究生：何全兴（基础心理-学硕） 王润明（学校心理-专硕）
+    + 本科生：贾一萌
 + 2021级
     + 研究生：徐彤（基础心理-学硕） 袁一丹（基础心理-学硕） 程心月（学校心理-专硕）
+    + 本科生：王禹柔 孙嘉毅
++ 2022级
+    + 研究生：饶正军（基础心理-学硕） 古丽尼尕尔（学校心理-专硕） 张超倩（学校心理-专硕）
+    + 本科生：黄鑫怡
 
   
